@@ -1,2 +1,2 @@
-town = """ Київ ❤"""
+town = "Київ ❤"
 print(town)
