@@ -17,4 +17,4 @@ total_air_hockey_price = air_hockey_price_per_game * air_hockey_games
 total_expense = total_ticket_price + total_taxi_price + total_pizza_price + total_air_hockey_price
 expense_per_person = total_expense / number_of_people
 
-print(f"Кожен із вас повинен заплатити: {expense_per_person}грн")
+print(f"Кожен із вас повинен заплатити: {expense_per_person} грн")
