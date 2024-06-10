@@ -36,7 +36,7 @@ def quiz():
 
     if total_score == 5:
         img = open('five_stars.jpeg', 'rb').read()
-        put_image(img, width="700px")
+        put_image(img, width="600px")
 
 if __name__ == '__main__':
     start_server(quiz() ,port=11000)
