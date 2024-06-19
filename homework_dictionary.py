@@ -25,8 +25,6 @@ students = {
       },
 }
 
-
-
 print("Список студентів із середнім балом більше 90:")
 for name, data in students.items():
     if data['Середній бал'] > 90:
