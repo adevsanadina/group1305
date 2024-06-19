@@ -44,3 +44,4 @@ for name, data in students.items():
 print("Оновлена інформація про студентів:")
 for name, data in students.items():
     print(f"Ім'я: {name}, Вік: {data['Вік']}, Пошта: {data['Пошта']}, Номер телефону: {data['Номер телефону']}, Середній бал: {data['Середній бал']}")
+
