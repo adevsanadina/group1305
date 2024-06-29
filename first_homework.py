@@ -1,0 +1,2 @@
+town = "Київ❤"
+print(town)
