@@ -4,5 +4,5 @@ list_of_recipients = [
 
 result = ','.join(list_of_recipients)
 
-
 print(result)
+
