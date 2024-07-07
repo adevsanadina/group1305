@@ -41,3 +41,4 @@ def create_welcome_letter(params:dict) -> str:
     output = template.render(params)
     return output
 
+
