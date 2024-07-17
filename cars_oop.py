@@ -21,3 +21,4 @@ car3 = Car(manufacturer='Ford', model='Focus', fuel_consumption=7.2)
 print(car1)
 print(car2)
 print(car3)
+
