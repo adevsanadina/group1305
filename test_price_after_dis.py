@@ -40,3 +40,4 @@ def test_small_discount():
     actual_result = calculate_discounted_price(price, discount)
     assert actual_result == expected
 
+

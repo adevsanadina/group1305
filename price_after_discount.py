@@ -6,4 +6,3 @@ def calculate_discounted_price(price: int | float, discount: int | float) -> int
     result = price * (1 - discount / 100)
     return int(result)
 
-
