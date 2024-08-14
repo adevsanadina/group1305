@@ -40,6 +40,3 @@ class Library:
 
     __repr__ = __str__
 
-
-
-
