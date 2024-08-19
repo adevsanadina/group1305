@@ -87,3 +87,4 @@ with sqlite3.connect(DB_PATH) as connection:
     result = cursor.execute(query)
     pprint(result.fetchall(), width=60)
 
+
